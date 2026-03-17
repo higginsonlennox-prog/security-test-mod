@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "net.fabricmc.example.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["NetworkMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
